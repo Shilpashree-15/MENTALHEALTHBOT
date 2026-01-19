@@ -69,6 +69,12 @@ Feel free to fork this repo and improve it!
 This chatbot is a **demo project** and **not a substitute for professional mental health advice**.
 
 
+---
 
-Do you want me to also create a `requirements.txt` file (so anyone can just run `pip install -r requirements.txt` instead of manually installing each library)?
-```
+## 🤝 Team Contribution
+This project was developed collaboratively as a team.
+
+**Team Members:**
+- Risha Hermain
+- Shilpashree R G
+
